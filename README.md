@@ -24,8 +24,11 @@
    
    
 
-</div>
-          
+</div><br/><br/>
+
+
+:woman_technologist:	Se quiser saber mais sobre mim  [Larissa Tavares](www.linkedin.com/in/larissa-tavares-ads) <img width=12 height=12 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+
 
 <!--
 **lrstvrs/lrstvrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
