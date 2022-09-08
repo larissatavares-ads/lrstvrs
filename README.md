@@ -1,6 +1,6 @@
 ## Oi! Me chamo Larissa Tavares<br/>
 
-- :bulb:	Sou desenvolvedora Back-End! <br/><br/>
+- :bulb:	Meu foco é o desenvolvimento Back-End! <br/><br/>
 - :notebook_with_decorative_cover: Atualmente estou cursando Análise e Desenvolvimento de Sistemas<br/>
 
 - :heavy_check_mark:	 Alguns dos meus conhecimentos:
@@ -9,7 +9,7 @@
   - IDE's: Visual Studio, Visual Studio Code, JetBrains Rider
   - Sistemas operacionais: Windows, Linux Ubuntu<br/>
 
-- :zap:	Fatos curiosos sobre mim: Sou formada em Medicina Veterinária, porém estou realizando migração de carreira. Atualmente meu foco é ser desenvolvedora Back-End :smile:	
+- :zap:	Fatos curiosos sobre mim: Sou formada em Medicina Veterinária, porém estou realizando migração de carreira. Atualmente meu foco é o desenvolvimento de softwares :smile:	
 
 
 ### Linguagens e Conhecimentos
