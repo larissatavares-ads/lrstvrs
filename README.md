@@ -27,7 +27,7 @@
 </div><br/><br/>
 
 
-:woman_technologist:	Se quiser saber mais sobre mim  [Larissa Tavares](www.linkedin.com/in/larissa-tavares-ads) <img width=12 height=12 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+:woman_technologist:	Se quiser saber mais sobre mim  [Larissa Tavares](https://www.linkedin.com/in/larissa-tavares-ads/) <img width=12 height=12 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
 
 <!--
