@@ -6,7 +6,8 @@
 - :heavy_check_mark:	 Alguns dos meus conhecimentos:
   - Linguagens: C#, .NET Core 3.1, .NET Core 6
   - Banco de Dados: MySQL, SQLite
-  - IDE's: Visual Studio, Visual Studio Code, JetBrains Rider
+  - Frameworks ORMs: Entity Framework Core, Dapper
+  - IDEs: Visual Studio, Visual Studio Code, JetBrains Rider
   - Sistemas operacionais: Windows, Linux Ubuntu<br/>
 
 - :zap:	Fatos curiosos sobre mim: Sou formada em Medicina Veterinária, porém estou realizando migração de carreira. Atualmente meu foco é o desenvolvimento de softwares :smile:	
