@@ -1,6 +1,6 @@
 ## Oi! Me chamo Larissa Tavares<br/>
 
-- :bulb:	Meu foco está no desenvolvimento Back-End! <br/><br/>
+- :bulb:	Sou desenvolvedora Back-End! <br/><br/>
 - :notebook_with_decorative_cover: Atualmente estou cursando Análise e Desenvolvimento de Sistemas<br/>
 
 - :heavy_check_mark:	 Alguns dos meus conhecimentos:
