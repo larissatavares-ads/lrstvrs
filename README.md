@@ -1,4 +1,31 @@
-### Hi there 👋
+## Oi! Me chamo Larissa Tavares<br/>
+
+- :bulb:	Meu foco está no desenvolvimento Back-End! <br/><br/>
+- :notebook_with_decorative_cover: Atualmente estou cursando Análise e Desenvolvimento de Sistemas<br/>
+
+- :heavy_check_mark:	 Alguns dos meus conhecimentos:
+  - Linguagens: C#, .NET Core 3.1, .NET Core 6
+  - Banco de Dados: MySQL, SQLite
+  - IDE's: Visual Studio, Visual Studio Code, JetBrains Rider
+  - Sistemas operacionais: Windows, Linux Ubuntu<br/>
+
+- :zap:	Fatos curiosos sobre mim: Sou formada em Medicina Veterinária, porém estou realizando migração de carreira. Atualmente meu foco é ser desenvolvedora Back-End :smile:	
+
+
+### Linguagens e Conhecimentos
+<div>
+   <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+   <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+   <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+   <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+   <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+   <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
+   
+   
+
+</div>
+          
 
 <!--
 **lrstvrs/lrstvrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
