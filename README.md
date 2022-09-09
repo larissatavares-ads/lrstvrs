@@ -23,14 +23,12 @@
    <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
    <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
    <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   
-   
-
 </div><br/><br/>
 
-
-:woman_technologist:	Meu LinkedIn >>  [Larissa Tavares](https://www.linkedin.com/in/larissa-tavares-ads/) <img width=12 height=12 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-
+### Contato
+<img width=12 height=12 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />	Meu LinkedIn >>  [Larissa Tavares](https://www.linkedin.com/in/larissa-tavares-ads/) 
+:envelope:
+:incoming_envelope:
 
 <!--
 **lrstvrs/lrstvrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
