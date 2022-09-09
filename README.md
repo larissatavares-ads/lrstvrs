@@ -27,7 +27,7 @@
 
 ### :telephone_receiver: Contatos 
 <img width=17 height=17 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />	[LinkedIn](https://www.linkedin.com/in/larissa-tavares-ads/) <br/>
-<img width=17 height=17 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /> [lrstvrs@gmail.com](https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=CrpPbDzDSrjsVlkssdpPlZnJHjjvpSgmqmnhvpJTZptfvGGxqMWMFbLPWZLWMHbnpglDkthczkFqKbRtJqdB)
+<img width=17 height=17 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /> [lrstvrs@gmail.com](https://mail.google.com/mail/u/0/?tab=wm#inbox?compose=GTvVlcSDbFVrKjRfPFKgkhqQxCfSjPSKhZLVTVvvHSDBMRmvfZzJpJgFbVfWlGPJrGxGtGrNrCJNz)
 
 
 
