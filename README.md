@@ -10,7 +10,7 @@
   - IDEs: Visual Studio, Visual Studio Code, JetBrains Rider
   - Sistemas operacionais: Windows, Linux Ubuntu<br/>
 
-- :zap:	Fatos curiosos sobre mim: Sou formada em Medicina Veterinária, porém estou realizando migração de carreira. Atualmente meu foco é o desenvolvimento de softwares :smile:	
+- :zap:	Fatos curiosos sobre mim: Fiz parte do movimento escoteiro do Brasil, por isso levo sempre comigo o lema de deixar o lugar mais limpo do que quando encontrei! :smile:	
 
 
 ### Linguagens e Conhecimentos
