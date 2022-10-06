@@ -5,7 +5,7 @@
 
 - :heavy_check_mark:	 Alguns dos meus conhecimentos:
   - Linguagens: C#, .NET Core 3.1, .NET Core 6
-  - Banco de Dados: MySQL, SQLite
+  - Banco de Dados: MySQL, SQLite, MSSQL
   - Frameworks ORMs: Entity Framework Core, Dapper
   - IDEs: Visual Studio, Visual Studio Code, JetBrains Rider
   - Sistemas operacionais: Windows, Linux Ubuntu<br/>
@@ -19,6 +19,8 @@
    <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
    <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+   <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+   
    <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
    <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
    <img width=40 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
