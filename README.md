@@ -7,8 +7,12 @@
   - Linguagens: C#, .NET Core 3.1, .NET Core 6
   - Banco de Dados: MySQL, SQLite, MSSQL
   - Frameworks ORMs: Entity Framework Core, Dapper
-  - IDEs: Visual Studio, Visual Studio Code, JetBrains Rider
+  - IDEs: Visual Studio, Visual Studio Code, JetBrains Rider, IntelliJ
   - Sistemas operacionais: Windows, Linux Ubuntu<br/>
+
+- :bulb: Aprendendo:
+  - Java
+  - Spring
 
 - :zap:	Fatos curiosos sobre mim: Fiz parte do movimento escoteiro do Brasil, por isso levo sempre comigo o lema de deixar o lugar mais limpo do que quando encontrei! :smile:	
 
