@@ -5,7 +5,7 @@
 
 - :heavy_check_mark:	 Alguns dos meus conhecimentos:
   - Linguagens: C#, .NET Core 3.1, .NET Core 6
-  - Banco de Dados: MySQL, SQLite, MSSQL
+  - Banco de Dados: MySQL, SQLite, MSSQL, MongoDB
   - Frameworks ORMs: Entity Framework Core, Dapper
   - IDEs: Visual Studio, Visual Studio Code, JetBrains Rider, IntelliJ
   - Sistemas operacionais: Windows, Linux Ubuntu<br/>
